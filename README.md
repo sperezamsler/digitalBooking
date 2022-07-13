@@ -7,7 +7,7 @@ _Simulando un ambiente de trabajo real y utilizando metodologías ágiles, en es
 <br>
 _Nuestro objetivo, además de adquirir experiencia, es ponernos a prueba a nosotros mismos y demostrar lo que estamos capacitados para hacer, sumando un proyecto a nuestros portfolios personales._
 
-Link: [Digital Booking](http://remo-digitalbooking.click/)
+Link: [Digital Booking](https://remo-digitalbooking.click/)
 
 <hr />
 <br>
