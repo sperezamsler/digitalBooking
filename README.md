@@ -32,6 +32,7 @@ Al obtener la beca de CTD empecé un emocionante y vertiginoso camino de aprendi
 Las áreas de la carrera que me despiertan mayor interés son back end, base de datos y testing, tal es así que durante el proyecto integrador elegí trabajar, junto con mis compañeros de equipo, en el desarrollo de las tareas relacionadas con estos campos. Algunas de ellas son: confección de diagrama DER, modelado y mapeo de clases utilizando Java Springboot Hibernate/JPA, creación de API, implementación de Spring Security, manejo de base de datos desde MySQL Workbench, testeos automatizados con Postman, Selenium y Jest.
 <br>
 <br>
+
 | Tecnología| Fortaleza |
 | ------ | ------ |
 | Front end| 🟢🟢🔘 |
@@ -39,6 +40,7 @@ Las áreas de la carrera que me despiertan mayor interés son back end, base de 
 | Infraestructura| 🟢🔘🔘|
 | Testing / QA| 🟢🟢🔘|
 | Bases de datos| 🟢🟢🔘|
+
 <br>
 
 Contacto: mapantano@gmail.com
@@ -80,13 +82,14 @@ _HTML, CSS, JavaScript, React Library, Bootstrap, Axios, Sass, Styled Components
 <br>
 
 _Java, Spring Framework, Spring Boot, Spring Boot Security, Spring Boot Mail, Spring Boot JPA, Hibernate ORM, jwt, log4j, maven, Swagger, Database: Mysql._
-
 <br>
+
 <strong>Testing:</strong>
 <br>
 
 _JUnit, Jest, Postman, React Testing Library, Selenium Ide y testing manual_
 <br>
+
 <strong>Infraestructura:</strong>
 <br>
 
