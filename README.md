@@ -12,9 +12,10 @@ Link: [Digital Booking](https://remo-digitalbooking.click/)
 <strong><h2>Nuestro Equipo</h2></strong>
 
 * Backend:
+  * Sergio Andres Perez Amsler
   * María Sofía Monasterio
   * María Alejandra Pantano
-  * Sergio Andres Perez Amsler
+  
 * Frontend:
   * Franco Verón Peralta
   * Diana Sauval
@@ -24,12 +25,7 @@ Link: [Digital Booking](https://remo-digitalbooking.click/)
 <hr/>
 
 <strong><h2>Sobre mí</h2></strong>
-<h4>María Alejandra Pantano</h4>
-A lo largo de mi vida profesional me interesé por diversas disciplinas: comencé a estudiar diseño, luego me recibí de técnica en Recursos Humanos, y los últimos años ejercí mi profesión de tripulante de cabina de pasajeros. Como consecuencia de la pandemia perdí mi trabajo y opté por reinventarme en el área del desarrollo tecnológico, campo que siempre me interesó pero que hasta ese momento aún no había explorado.
-<br>
-Al obtener la beca de CTD empecé un emocionante y vertiginoso camino de aprendizaje lleno de nuevos desafíos, ya que no poseía conocimientos previos en programación, lo cual me motiva a continuar aprendiendo cada día más.
-<br>
-Las áreas de la carrera que me despiertan mayor interés son back end, base de datos y testing, tal es así que durante el proyecto integrador elegí trabajar, junto con mis compañeros de equipo, en el desarrollo de las tareas relacionadas con estos campos. Algunas de ellas son: confección de diagrama DER, modelado y mapeo de clases utilizando Java Springboot Hibernate/JPA, creación de API, implementación de Spring Security, manejo de base de datos desde MySQL Workbench, testeos automatizados con Postman, Selenium y Jest.
+<h4>Sergio Perez Amsler</h4>
 <br>
 <br>
 
@@ -43,9 +39,9 @@ Las áreas de la carrera que me despiertan mayor interés son back end, base de 
 
 <br>
 
-Contacto: mapantano@gmail.com
+Contacto: sergioperezamsler@gmail.com
 <br>
-Linked In: [Perfil de Alejandra Pantano](https://www.linkedin.com/in/alejandra-pantano/)
+Linked In: [Perfil de Sergio Perez Amsler](https://www.linkedin.com/in/sergio-andres-perez-amsler/)
 
 <hr/>
 
